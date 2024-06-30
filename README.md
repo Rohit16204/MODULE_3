@@ -20,7 +20,7 @@ Installing
 Download the Project
 
 Clone the repository from GitHub:
-git clone https://github.com/NICxKMS/ETH_AVAX_INTER_MOD_3.git
+git clone https:(https://github.com/Rohit16204/MODULE_3)
 Navigate to the project directory:
 cd ETH_AVAX_INTER_MOD_3
 Open Remix IDE
